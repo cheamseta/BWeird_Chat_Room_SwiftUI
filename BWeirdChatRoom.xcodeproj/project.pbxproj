@@ -11,6 +11,9 @@
 		FD195CCD263AE72100A51F95 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD195CCC263AE72100A51F95 /* ContentView.swift */; };
 		FD195CCF263AE72400A51F95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD195CCE263AE72400A51F95 /* Assets.xcassets */; };
 		FD195CD2263AE72400A51F95 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD195CD1263AE72400A51F95 /* Preview Assets.xcassets */; };
+		FD195CDB263AE7A500A51F95 /* AddMood.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD195CDA263AE7A400A51F95 /* AddMood.swift */; };
+		FD195CDE263AE83B00A51F95 /* MoodModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD195CDD263AE83B00A51F95 /* MoodModel.swift */; };
+		FD195CE1263AEB3300A51F95 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD195CE0263AEB3300A51F95 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		FD195CCE263AE72400A51F95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD195CD1263AE72400A51F95 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FD195CD3263AE72400A51F95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD195CDA263AE7A400A51F95 /* AddMood.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddMood.swift; sourceTree = "<group>"; };
+		FD195CDD263AE83B00A51F95 /* MoodModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoodModel.swift; sourceTree = "<group>"; };
+		FD195CE0263AEB3300A51F95 /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +60,12 @@
 			children = (
 				FD195CCA263AE72100A51F95 /* BWeirdChatRoomApp.swift */,
 				FD195CCC263AE72100A51F95 /* ContentView.swift */,
+				FD195CDA263AE7A400A51F95 /* AddMood.swift */,
+				FD195CE0263AEB3300A51F95 /* ImagePicker.swift */,
 				FD195CCE263AE72400A51F95 /* Assets.xcassets */,
 				FD195CD3263AE72400A51F95 /* Info.plist */,
 				FD195CD0263AE72400A51F95 /* Preview Content */,
+				FD195CDD263AE83B00A51F95 /* MoodModel.swift */,
 			);
 			path = BWeirdChatRoom;
 			sourceTree = "<group>";
@@ -140,6 +149,9 @@
 			files = (
 				FD195CCD263AE72100A51F95 /* ContentView.swift in Sources */,
 				FD195CCB263AE72100A51F95 /* BWeirdChatRoomApp.swift in Sources */,
+				FD195CE1263AEB3300A51F95 /* ImagePicker.swift in Sources */,
+				FD195CDE263AE83B00A51F95 /* MoodModel.swift in Sources */,
+				FD195CDB263AE7A500A51F95 /* AddMood.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
