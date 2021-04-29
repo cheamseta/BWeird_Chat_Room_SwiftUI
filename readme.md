@@ -1,9 +1,9 @@
 ﻿# BWeird Chat Room on SwiftUI
 
 
-I have been working on UIKit on swift for along time but I had not tried SwiftUI. Recently, I've tried the framework and started appreciating the full power of SwiftUI. SwiftUI create a lot freedom designing UI and provide app personality with great animations.
+I have been working on UIKit on Swift for along time but I had not tried SwiftUI. Recently, I've tried the framework and started appreciating the full power of SwiftUI. SwiftUI creates a lot freedom designing UI and provides app personality with great animations.
 
-Chat room has been created as part of " Mood Tracker App " selling on Appstore. I found out that make reverse scroll view was hard after whole day research and watching a bunch of tutorials. I would love to share this code to everyone who also struggling implement this part.
+I took this opportunity to create a Chat room app which has been made as part of " Mood Tracker App " selling on Appstore. While learing the new framework, I found out that some implementation was harder than UIkit. Therefore I share hard parts like making reverse scroll view on github. After whole day research and watching a bunch of tutorials, I believe those code would be useful for some of you to try out.
 
 ## Features
 
