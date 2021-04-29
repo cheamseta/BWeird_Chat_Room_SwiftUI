@@ -3,7 +3,7 @@
 
 I have been working on UIKit on Swift for along time but I had not tried SwiftUI. Recently, I've tried the framework and started appreciating the full power of SwiftUI. SwiftUI creates a lot freedom designing UI and provides app personality with great animations.
 
-I took this opportunity to create a Chat room app which has been made as part of " Mood Tracker App " selling on Appstore. While learing the new framework, I found out that some implementation was harder than UIkit. Therefore I share hard parts like making reverse scroll view on github. After whole day research and watching a bunch of tutorials, I believe those code would be useful for some of you to try out.
+I took this opportunity to create a chat room app which has been made as part of " Mood Tracker App " selling on #Appstore. While learning the new framework, I found out that some implementations was harder than UIkit. Therefore I would love share some parts like making reverse scroll view and image picker source-code in #github. After whole day researching and watching a bunch of tutorials, I believe those code would be useful for some of you to try out on your projects in #SwiftUI.
 
 ## Features
 
